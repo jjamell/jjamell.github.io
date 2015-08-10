@@ -9,4 +9,4 @@ So I've started my journey through [Free Code Camp][fcc].  Coming along pretty n
 
 I'll begin documenting some neat tricks I've learned that helped me along through the course.  I've got a pretty fancy toolbelt now. :P
 
-[fcc]: https://www.freecodecamp.com
+[fcc]: http://www.freecodecamp.com
