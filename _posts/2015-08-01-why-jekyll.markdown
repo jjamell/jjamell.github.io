@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Why did I chose Jekyll?"
+title:  "Why Jekyll?"
 date:   2015-08-01 10:30:30
 categories: jekyll
 ---
 
-All the cool kids are using it, so I guess I will too.  Woo!
+All the cool kids are using it.  Easy as 3.14159.
