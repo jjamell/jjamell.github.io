@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jjamell.github.io" # the base hostname & protocol for your site
 twitter_username: kassick92 
 github_username: jjamell 
+linkedin_username: jjamell 
 
 # Build settings
 markdown: kramdown
